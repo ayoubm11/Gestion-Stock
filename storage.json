@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "dell",
+      "quantity": 3,
+      "price": 100000.0,
+      "description": "probook"
+    },
+    {
+      "id": 2,
+      "name": "HP",
+      "quantity": 2,
+      "price": 100000.0,
+      "description": "ellitbook"
+    },
+    {
+      "id": 3,
+      "name": "acer",
+      "description": "q12322",
+      "quantity": 4,
+      "price": 30000.0
+    },
+    {
+      "id": 4,
+      "name": "lenovo",
+      "description": "tkin500 i7",
+      "quantity": 4,
+      "price": 8000.0
+    }
+  ]
+}
